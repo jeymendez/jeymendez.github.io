@@ -1,0 +1,11 @@
+/*this is my first style cascade style sheet*/
+
+h1{
+  text-align:center;
+  color:#0000CC;
+}
+
+body{
+  font-size:x-large;
+  background-color:rgba(150,150,150,0.4);
+}
